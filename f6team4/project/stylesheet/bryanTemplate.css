@@ -1,0 +1,35 @@
+#NavigationBar
+{
+    /* This is the background color for the WHOLE nav bar*/
+    background-color: #f1f1f1;
+    margin:auto;
+
+}
+
+#NavigationBar ul{
+    text-align:center;
+
+}
+
+#NavigationBar ul li
+{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+
+    /* This is the background color that surrounds the anchor tag*/
+    background-color: #f1f1f1;
+}
+
+#NavigationBar ul li a
+{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#NavigationBar ul li a:hover
+{
+    background-color: #555;
+    color: white;
+}
+

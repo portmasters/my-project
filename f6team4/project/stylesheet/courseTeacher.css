@@ -1,0 +1,78 @@
+.courseListBx{
+	width:20%;
+	height:420px;
+	position:relative;
+	background:#e6ffff;
+	display:inline-block;
+	box-shadow: 3px 1px 3px  #888888;
+}
+.courseHead{
+	-ms-transform: rotate(7deg);
+	-webkit-transform:rotate(7deg);
+	background-color:#4682b4;
+	box-shadow: 1px 3px 3px #888888;
+}
+.courseHead h1{
+	padding:20px;
+	color:white;
+	margin:0;
+}
+.CourseTable{
+	margin-top:20px;
+	background-color:light;
+
+	height:230px;
+	width:100%;
+}
+.CourseTable a{
+	color:blue;
+	text-decoration:none;
+	font-size:30px;	
+}
+.CourseTable a:visited{
+	color:blue;
+}
+.CourseTable ul li{
+	list-style:none;
+}
+
+
+.courseRightBx{
+	vertical-align:top;
+	display:inline-block;
+	background-image:url(../images/adminBackground.jpg);
+	background-size:cover;       
+	background-repeat: no-repeat;
+	background-position:center center;
+	margin: 0 0 20px 2.5%;
+	width:75%;
+	height:400px;
+	color:white;
+	box-shadow: 3px 3px 3px #888888;
+}
+.courseRightBx h1{
+	margin:0;
+	padding-left:20px;
+	padding-top:20px;
+	
+}
+#commentBx, h2, #submit{
+	margin:0 0 0 60px;
+}
+#ratingSystem{
+	margin-left:60px;
+}
+#ratingSystem th{
+	text-align:right;
+	color:white;
+}
+#teacherInput{
+	background-color:#4682b4;color:white;font-size:20px;font-weight:bold;
+}
+
+
+
+
+
+
+

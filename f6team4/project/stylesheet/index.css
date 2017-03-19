@@ -1,0 +1,54 @@
+#headbar{
+	background:#4682b4;
+	
+	height:45px;
+	box-shadow:0px 3px 3px #888888;
+	
+}
+.content{
+	
+}
+#leftBox{
+	margin:15px 0px 5px 5px;
+	
+	width:49%;
+	display:inline-block;
+	border-right:1px solid #cccccc;
+	
+}
+#loginBox{
+	width:50%;
+	margin:0 auto;
+	
+	height:300px;
+}
+h3{
+	background:#4682b4;
+	margin: 10px 5px 15px 0px;
+
+	color:white;
+	box-shadow:2px 1px 1px #888888;
+	
+}
+#rightBox{
+	width:49%;
+	margin:15px 0px 5px 2px;
+	vertical-align:top;
+	display:inline-block;
+	
+}
+#rightBox h3{
+	margin-right:0px;
+	
+	
+}
+#rightBox p{
+	margin-top:0px;
+}
+#aboutBox{
+	width:100%;
+	height:300px;
+	overflow:scroll;
+	overflow-x:hidden;
+	
+}

@@ -1,0 +1,332 @@
+[05-Nov-2016 06:34:00 UTC] PHP Warning:  include(../templateFoot.php): failed to open stream: No such file or directory in /home/f6team4/public_html/project/website_pages/registration.php on line 45
+[05-Nov-2016 06:34:00 UTC] PHP Warning:  include(../templateFoot.php): failed to open stream: No such file or directory in /home/f6team4/public_html/project/website_pages/registration.php on line 45
+[05-Nov-2016 06:34:00 UTC] PHP Warning:  include(): Failed opening '../templateFoot.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team4/public_html/project/website_pages/registration.php on line 45
+[05-Nov-2016 06:34:23 UTC] PHP Warning:  include(../templateFoot.php): failed to open stream: No such file or directory in /home/f6team4/public_html/project/website_pages/registration.php on line 45
+[05-Nov-2016 06:34:23 UTC] PHP Warning:  include(../templateFoot.php): failed to open stream: No such file or directory in /home/f6team4/public_html/project/website_pages/registration.php on line 45
+[05-Nov-2016 06:34:23 UTC] PHP Warning:  include(): Failed opening '../templateFoot.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team4/public_html/project/website_pages/registration.php on line 45
+[06-Nov-2016 20:54:36 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:55:02 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:55:10 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:55:11 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:55:11 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:55:12 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:03 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:23 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:24 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:24 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:24 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:24 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:36 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:36 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:37 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 20:57:37 UTC] PHP Warning:  PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 4
+[06-Nov-2016 21:17:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 14
+[06-Nov-2016 21:18:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 14
+[06-Nov-2016 21:19:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:19:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:19:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:20:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:22:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:22:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:25:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:25:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:25:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:25:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:25:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:25:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:03 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:05 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:26:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:29:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:29:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:29:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:29:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:29:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:29:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 13
+[06-Nov-2016 21:32:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 12
+[06-Nov-2016 21:32:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 12
+[06-Nov-2016 21:33:05 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 12
+[06-Nov-2016 21:33:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/f6team4/public_html/project/website_pages/testingServer3.php on line 12
+[06-Nov-2016 22:00:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on integer in /home/f6team4/public_html/project/website_pages/testingServer2.php on line 20
+[06-Nov-2016 22:53:11 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:53:58 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:53:59 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:53:59 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:53:59 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:54:00 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:54:00 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:56:11 UTC] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/f6team4/public_html/project/website_pages/h2.php on line 2
+[06-Nov-2016 22:59:12 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 22:59:13 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 22:59:13 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 22:59:13 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 22:59:14 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 23:00:20 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 23:00:21 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 23:00:21 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 23:00:22 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 23:00:22 UTC] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 3
+[06-Nov-2016 23:01:48 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 4
+[06-Nov-2016 23:01:49 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 4
+[07-Nov-2016 02:50:14 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 4
+[07-Nov-2016 06:24:43 UTC] PHP Parse error:  syntax error, unexpected '$password' (T_VARIABLE) in /home/f6team4/public_html/project/website_pages/h2.php on line 4
+[07-Nov-2016 06:24:52 UTC] PHP Warning:  include(../serverTest.php): failed to open stream: No such file or directory in /home/f6team4/public_html/project/website_pages/realIndex.php on line 1
+[07-Nov-2016 06:24:52 UTC] PHP Warning:  include(../serverTest.php): failed to open stream: No such file or directory in /home/f6team4/public_html/project/website_pages/realIndex.php on line 1
+[07-Nov-2016 06:24:52 UTC] PHP Warning:  include(): Failed opening '../serverTest.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/f6team4/public_html/project/website_pages/realIndex.php on line 1
+[07-Nov-2016 20:53:07 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 20:53:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 20:56:04 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 20:56:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 21:02:50 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 21:02:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 21:04:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 21:04:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 21:04:07 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[07-Nov-2016 21:04:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 3
+[08-Nov-2016 13:28:05 UTC] PHP Fatal error:  Call to undefined function session_star() in /home/f6team4/public_html/project/website_pages/h.php on line 25
+[08-Nov-2016 13:28:12 UTC] PHP Fatal error:  Call to undefined function session_star() in /home/f6team4/public_html/project/website_pages/h.php on line 25
+[08-Nov-2016 13:29:01 UTC] PHP Fatal error:  Call to undefined function session_star() in /home/f6team4/public_html/project/website_pages/h.php on line 25
+[08-Nov-2016 13:29:08 UTC] PHP Fatal error:  Call to undefined function session_star() in /home/f6team4/public_html/project/website_pages/h.php on line 25
+[08-Nov-2016 18:44:04 UTC] PHP Fatal error:  Call to undefined function session_star() in /home/f6team4/public_html/project/website_pages/h.php on line 25
+[11-Nov-2016 10:09:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 29
+[11-Nov-2016 10:09:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:29) in /home/f6team4/public_html/project/website_pages/realIndex.php on line 29
+[13-Nov-2016 09:13:11 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:13:11 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:13:15 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:13:34 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:13:34 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:13:40 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:14:47 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:15:09 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:15:09 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:15:10 UTC] PHP Fatal error:  Call to a member function execute() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 33
+[13-Nov-2016 09:16:31 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[13-Nov-2016 09:17:06 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[13-Nov-2016 09:17:06 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[13-Nov-2016 09:17:10 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[13-Nov-2016 09:17:48 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 40
+[13-Nov-2016 09:17:50 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 40
+[13-Nov-2016 09:19:27 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:28 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:29 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:29 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:30 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:30 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:30 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:30 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:31 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:31 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[13-Nov-2016 09:19:31 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 35
+[14-Nov-2016 07:17:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 67
+[14-Nov-2016 07:17:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 36
+[14-Nov-2016 07:21:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 36
+[15-Nov-2016 08:47:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 36
+[15-Nov-2016 08:47:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 36
+[15-Nov-2016 08:47:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 36
+[15-Nov-2016 08:56:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:56:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:56:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:58:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:58:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:58:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:59:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:59:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 08:59:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 37
+[15-Nov-2016 09:07:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:08:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:08:34 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:08:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:08:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:08:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:08:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:09:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:09:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:11:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:12:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 09:32:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 13:47:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 13:50:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[15-Nov-2016 13:56:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[16-Nov-2016 03:13:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 68
+[16-Nov-2016 03:28:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[16-Nov-2016 03:28:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 68
+[16-Nov-2016 14:57:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[16-Nov-2016 17:14:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[16-Nov-2016 18:16:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[16-Nov-2016 23:33:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[18-Nov-2016 03:26:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[18-Nov-2016 03:38:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[18-Nov-2016 05:56:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[18-Nov-2016 20:43:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[19-Nov-2016 20:19:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 39
+[20-Nov-2016 09:55:27 UTC] PHP Warning:  mysqli::query() expects at least 1 parameter, 0 given in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 47
+[20-Nov-2016 09:55:32 UTC] PHP Warning:  mysqli::query() expects at least 1 parameter, 0 given in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 47
+[20-Nov-2016 09:56:04 UTC] PHP Warning:  mysqli::query() expects at least 1 parameter, 0 given in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 47
+[20-Nov-2016 13:14:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 58
+[20-Nov-2016 13:14:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 10
+[20-Nov-2016 13:14:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[20-Nov-2016 13:14:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 10
+[20-Nov-2016 13:14:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[20-Nov-2016 13:14:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 58
+[20-Nov-2016 13:14:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 10
+[20-Nov-2016 13:14:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[20-Nov-2016 13:15:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 10
+[20-Nov-2016 13:15:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[20-Nov-2016 13:15:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 58
+[20-Nov-2016 13:15:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 10
+[20-Nov-2016 13:15:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[20-Nov-2016 13:15:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 58
+[20-Nov-2016 13:16:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 10
+[20-Nov-2016 13:16:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[21-Nov-2016 06:34:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[21-Nov-2016 06:34:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 49
+[21-Nov-2016 20:01:38 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 20:36:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 18
+[21-Nov-2016 21:13:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 22:07:56 UTC] PHP Fatal error:  Call to undefined function bind_param() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 44
+[21-Nov-2016 22:09:01 UTC] PHP Fatal error:  Call to undefined function bind_param() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 44
+[21-Nov-2016 22:16:22 UTC] PHP Fatal error:  Call to undefined function bind_param() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 44
+[21-Nov-2016 22:17:57 UTC] PHP Fatal error:  Call to undefined function bind_param() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 44
+[21-Nov-2016 22:24:53 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/f6team4/public_html/project/website_pages/realIndex.php on line 24
+[21-Nov-2016 22:24:53 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::excute() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 25
+[21-Nov-2016 22:25:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/f6team4/public_html/project/website_pages/realIndex.php on line 24
+[21-Nov-2016 22:25:26 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::excute() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 28
+[21-Nov-2016 22:25:34 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/f6team4/public_html/project/website_pages/realIndex.php on line 24
+[21-Nov-2016 22:25:34 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::excute() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 28
+[21-Nov-2016 22:27:21 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::excute() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 28
+[21-Nov-2016 22:28:29 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:28:35 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:29:26 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:29:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 22:29:40 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_assoc() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:31:03 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_assoc() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:31:08 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch_assoc() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:32:19 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:32:58 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/realIndex.php on line 30
+[21-Nov-2016 22:42:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 26
+[21-Nov-2016 22:44:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 26
+[21-Nov-2016 22:44:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 26
+[21-Nov-2016 22:45:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:45:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:45:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:45:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:45:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:45:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:46:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:50:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:50:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:50:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:50:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 28
+[21-Nov-2016 22:51:04 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:07 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:08 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:09 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 18
+[21-Nov-2016 22:51:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 36
+[21-Nov-2016 22:51:10 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 36
+[21-Nov-2016 22:51:24 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:25 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:26 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:27 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:28 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:28 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:29 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:51:29 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:52:43 UTC] PHP Fatal error:  Call to a member function get_result() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:52:48 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:53:12 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:53:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseGrade.php on line 36
+[21-Nov-2016 22:53:14 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:53:15 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:53:16 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 22
+[21-Nov-2016 22:53:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 24
+[21-Nov-2016 22:53:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 24
+[21-Nov-2016 22:53:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 22:53:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 22:53:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 22:53:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 21
+[21-Nov-2016 22:54:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 94
+[21-Nov-2016 22:54:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 94
+[21-Nov-2016 22:54:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 94
+[21-Nov-2016 22:55:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 93
+[21-Nov-2016 22:55:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 93
+[21-Nov-2016 22:55:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 93
+[21-Nov-2016 23:36:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/f6team4/public_html/project/website_pages/courseDashBoard.php on line 93
+[23-Nov-2016 02:08:34 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 39
+[23-Nov-2016 21:06:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:10:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:12:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:16:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:19:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:22:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:25:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:28:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:32:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 25
+[23-Nov-2016 21:34:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:37:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:42:05 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:45:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:48:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:50:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:52:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 27
+[23-Nov-2016 21:55:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:57:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:57:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:58:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 21:59:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 21:59:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:00:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 22:01:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:02:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:02:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:04:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 23
+[23-Nov-2016 22:05:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:06:10 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:07:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:08:43 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:08:44 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:08:44 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:08:44 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:08:45 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:09:16 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:09:17 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:09:18 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[23-Nov-2016 22:09:24 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/f6team4/public_html/project/website_pages/courseTeacher.php on line 21
+[26-Nov-2016 03:36:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/registrationBootstrap.php on line 81
+[26-Nov-2016 03:36:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/registrationBootstrap.php on line 124
+[26-Nov-2016 03:38:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/registrationBootstrap.php on line 81
+[26-Nov-2016 03:38:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/f6team4/public_html/project/template/template.php:24) in /home/f6team4/public_html/project/website_pages/registrationBootstrap.php on line 124
+[29-Nov-2016 21:08:17 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 31
+[30-Nov-2016 06:47:32 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[30-Nov-2016 20:19:02 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[30-Nov-2016 20:19:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[02-Dec-2016 10:37:39 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 35
+[02-Dec-2016 21:19:40 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 35
+[02-Dec-2016 21:27:24 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[02-Dec-2016 21:59:58 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 35
+[02-Dec-2016 22:08:01 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 35
+[02-Dec-2016 22:19:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 35
+[02-Dec-2016 22:51:23 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 35
+[05-Dec-2016 02:04:41 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[05-Dec-2016 02:05:13 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[05-Dec-2016 02:05:14 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[05-Dec-2016 21:12:45 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[06-Dec-2016 13:05:04 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[06-Dec-2016 13:49:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[06-Dec-2016 13:51:49 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[06-Dec-2016 13:52:20 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[06-Dec-2016 13:52:24 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[06-Dec-2016 14:25:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/f6team4/public_html/project/website_pages/courseNote.php on line 36
+[06-Dec-2016 14:27:50 UTC] PHP Fatal error:  Call to a member function close() on null in /home/f6team4/public_html/project/validation/courseOption.php on line 33
+[06-Dec-2016 14:29:22 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/f6team4/public_html/project/website_pages/adminPage.php on line 59
+[06-Dec-2016 14:35:30 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/f6team4/public_html/project/website_pages/adminPage.php on line 59
+[06-Dec-2016 14:35:32 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/f6team4/public_html/project/website_pages/adminPage.php on line 59
+[06-Dec-2016 14:35:33 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/f6team4/public_html/project/website_pages/adminPage.php on line 59
+[06-Dec-2016 14:35:36 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/f6team4/public_html/project/website_pages/adminPage.php on line 59
+[06-Dec-2016 14:44:17 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home/f6team4/public_html/project/website_pages/adminPage.php on line 59

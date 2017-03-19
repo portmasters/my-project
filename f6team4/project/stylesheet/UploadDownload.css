@@ -1,0 +1,33 @@
+.content h1{
+	text-align:center;
+	margin:0;
+}
+.head{
+	background-color:#4682b4;
+	box-shadow:0px 1px 1px black;
+}
+.head input{
+	background-color:white;
+	border:1px solid black;
+}
+.content td{
+	border:1px solid black;
+}
+.content table{
+	margin-top:5px;
+	width:100%;
+}
+.content 
+{
+	color:white;
+	background-image:url(../images/adminBackground.jpg);
+	background-size:cover;       
+	background-repeat: no-repeat;
+	background-position:center center;
+	min-height:200px;
+	box-shadow:3px 3px 3px #888888;
+}
+.content a:link
+{
+	color:white;
+}
