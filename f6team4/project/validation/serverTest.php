@@ -1,9 +1,9 @@
 <?php	
 	//server test
-	$host = 'gblearn.com';
+	$host = 'HostWebsite.com';
 	$database = 'f6team4_student_data';
-	$db_username = 'f6team4_admin';
-	$db_password = 'K3[0twQk?.[J';
+	$db_username = 'user';
+	$db_password = 'password';
 	$conn = new mysqli($host, $db_username, $db_password, $database);
 
 	if($conn -> connect_error)
