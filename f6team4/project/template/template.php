@@ -1,5 +1,5 @@
 	<header>
-		<a href="http://f6team4.gblearn.com/project/index.php"><img src="http://f6team4.gblearn.com/project/images/studentS.png" alt="studentS" style="width:100px;height:100px;"/></a>
+		<a href="http://f6team4.gblearn.com/project/index.php"><img src="/images/studentS.png" alt="studentS" style="width:100px;height:100px;"/></a>
 		<a href="http://f6team4.gblearn.com/project/index.php"><h1> Welcome to Student Go</h1></a>
 	</header>
 

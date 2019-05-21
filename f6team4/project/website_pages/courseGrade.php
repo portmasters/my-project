@@ -377,6 +377,5 @@
 		</div>
 		<?php include '../template/templateFoot.php'?>
 	</div>
-	<a href="/folder_view/vs.php?s=<?php echo __FILE__?>" target="_blank">View Source</a>
 </body>
 </html>

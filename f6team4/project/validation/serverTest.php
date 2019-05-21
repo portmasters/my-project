@@ -1,8 +1,8 @@
 <?php	
 	//server test
-	$host = 'HostWebsite.com';
-	$database = 'f6team4_student_data';
-	$db_username = 'user';
+	$host = 'hosting.com';
+	$database = 'student_data';
+	$db_username = 'admin';
 	$db_password = 'password';
 	$conn = new mysqli($host, $db_username, $db_password, $database);
 
